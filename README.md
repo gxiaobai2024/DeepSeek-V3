@@ -1,3 +1,8 @@
+下载桌面聊天客户端 Windows 版（）https://www.nomic.ai/gpt4all
+
+
+
+
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
