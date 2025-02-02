@@ -1,4 +1,5 @@
-下载桌面聊天客户端 Windows 版（）https://www.nomic.ai/gpt4all
+下载桌面聊天客户端 Windows 版（https://www.nomic.ai/gpt4all
+https://github.com/nomic-ai/gpt4all 
 
 
 
